@@ -1,0 +1,18 @@
+C:\Dev\dotNET\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Game A1 - Adeilson.exe.config
+C:\Dev\dotNET\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Game A1 - Adeilson.exe
+C:\Dev\dotNET\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Game A1 - Adeilson.pdb
+C:\Dev\dotNET\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Game_A1_Plataforma.csprojAssemblyReference.cache
+C:\Dev\dotNET\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Game_A1_Plataforma.Mapa1.resources
+C:\Dev\dotNET\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Game_A1_Plataforma.Properties.Resources.resources
+C:\Dev\dotNET\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Game_A1_Plataforma.csproj.GenerateResource.cache
+C:\Dev\dotNET\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Game A1 - Adeilson.exe
+C:\Dev\dotNET\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Game A1 - Adeilson.pdb
+C:\Dev\dotNET\AVALIACAO_A1_GAME\AVALIACAO_A1_GAME\bin\Debug\Game A1 - Adeilson.exe.config
+C:\Dev\dotNET\AVALIACAO_A1_GAME\AVALIACAO_A1_GAME\bin\Debug\Game A1 - Adeilson.exe
+C:\Dev\dotNET\AVALIACAO_A1_GAME\AVALIACAO_A1_GAME\bin\Debug\Game A1 - Adeilson.pdb
+C:\Dev\dotNET\AVALIACAO_A1_GAME\AVALIACAO_A1_GAME\obj\Debug\Game_A1_Plataforma.csprojAssemblyReference.cache
+C:\Dev\dotNET\AVALIACAO_A1_GAME\AVALIACAO_A1_GAME\obj\Debug\Game_A1_Plataforma.Mapa1.resources
+C:\Dev\dotNET\AVALIACAO_A1_GAME\AVALIACAO_A1_GAME\obj\Debug\Game_A1_Plataforma.Properties.Resources.resources
+C:\Dev\dotNET\AVALIACAO_A1_GAME\AVALIACAO_A1_GAME\obj\Debug\Game_A1_Plataforma.csproj.GenerateResource.cache
+C:\Dev\dotNET\AVALIACAO_A1_GAME\AVALIACAO_A1_GAME\obj\Debug\Game A1 - Adeilson.exe
+C:\Dev\dotNET\AVALIACAO_A1_GAME\AVALIACAO_A1_GAME\obj\Debug\Game A1 - Adeilson.pdb
